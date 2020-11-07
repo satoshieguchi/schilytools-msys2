@@ -61,4 +61,4 @@ MSYS_NT-10.0-19042
 * the operating system is Windows 10,
 * the [MSYS2](https://www.msys2.org/) version is 19042.
 
-You would have to rename this file accordind to your [MSYS2](https://www.msys2.org/) environment.
+You would have to rename this file according to your [MSYS2](https://www.msys2.org/) environment.
