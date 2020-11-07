@@ -20,7 +20,7 @@ Please install the following packages in advance:
 
 This document also assumes that
 
-* you are working on the home directory ($HOME) in MSYS2,
+* you are working in the home directory ($HOME) in MSYS2,
 * [the tarball](https://sourceforge.net/projects/schilytools/) is saved as ~/schily-2020-11-04.tar.bz2,
 * the local copy of this repository locates in ~/schilytools-msys2.
 
